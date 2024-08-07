@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "FonkwoDemo"
     workspaces {
-     name = "FonkwoCommon"
+     name = "Fonkwo-cli-test"
     }
   }
 }
